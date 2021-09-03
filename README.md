@@ -29,6 +29,6 @@ Team members
 5. as a user i want to see some of famous doctors in my contry.
 
 ### what I am doing in this project?
-I made the home page with all features like a slider using js ,color switcher for all web site using js ,helpe my partner in hrml ,css in all project .
+I made the home page with all features like a slider using js ,color switcher for all web site using js and local storage  ,helpe my partner in html ,css in all project .
 
 **got to : [medical clinic Live URL]( https://ahmed-alanaswah.github.io/medical-clinic-project/)**
